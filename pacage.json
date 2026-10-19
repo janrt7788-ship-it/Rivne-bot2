@@ -1,0 +1,14 @@
+{
+  "name": "threat-bot",
+  "version": "1.0.0",
+  "description": "UAV Threat Tracker Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.19.2",
+    "telegraf": "^4.16.3"
+  }
+}
